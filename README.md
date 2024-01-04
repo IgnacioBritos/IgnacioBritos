@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Ignacio (Gaspar) Britos</h1>
 <h3 align="center">Desarrollador Full Stack (Argentina)</h3>
-<img align="right" alt="" src="https://camo.githubusercontent.com/7ebef749cd85eab1f30f17593c025d1037a10223584145ba2d3b6f54c09c18c2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383935302f73637265656e73686f74732f343138383837372f6d656469612f65393363343034613935343463393462393962626338353734663762383632362e676966" data-canonical-src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif">
 <h2>SOBRE MI</h2>
 <p>Desarrollador web apasionado con habilidades en HTML, CSS y React. Me encanta el diseño y resolver problemas creativos. Busco desafíos inspiradores para crecer y contribuir al mundo tech.</p>
 
