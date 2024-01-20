@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales**
 
-- 🌐 visita mi potafolio **https://portafolio-jade-iota.vercel.app/**
+- 🌐 visita mi potafolio **https://portafolio-ignacio.vercel.app/**
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks, cursos, etc.**
 
