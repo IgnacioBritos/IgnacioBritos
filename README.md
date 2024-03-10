@@ -8,8 +8,6 @@
 
 - 🌐 visita mi potafolio **https://portafolio-ignacio.vercel.app/**
 
-- 🌱 Actualmente estoy aprendiendo **Frameworks, cursos, etc.**
-
 - 📝 Escribo regularmente sobre mis proyectos en [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 - 📫 Contáctame en **gasparbritos2011@gmail.com**
